@@ -2,7 +2,7 @@
   "COMMANDS": {
     "SETTING": {
       "TITLE": {
-        "NOGROUP": "Please select a setting group from the following:",
+        "NOGROUP": "Please select a setting group from the following:test",
         "GROUP": "Here are all the settings for the group `{0}`"
       },
       "NO": {
