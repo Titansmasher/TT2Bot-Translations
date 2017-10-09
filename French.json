@@ -2386,34 +2386,34 @@
       "CLANSHIPDAMAGE": "Clan Ship Damage",
       "FORMATMINUS": "-{0}",
       "MULTIMONSTERS": "Multiple Spawn Chance",
-      "CHESTCHANCE": "Chesterson Chance",
-      "CRITDAMAGE": "Critical Damage",
-      "BURSTDAMAGESKILLMANA": "Heavenly Strike Mana Cost",
-      "INACTIVEPETDAMAGE": "Inactive Pet Damage",
-      "ALLHELPERDAMAGE": "All Hero Damage",
+      "CHESTCHANCE": "Chance de Monsieur Coffre",
+      "CRITDAMAGE": "Dégât Critique",
+      "BURSTDAMAGESKILLMANA": "Coût Mana Frappe Céleste",
+      "INACTIVEPETDAMAGE": "Dégât familier inactif",
+      "ALLHELPERDAMAGE": "Dégât de tous les héros",
       "FORMATDEFAULT": "{0}%",
-      "ARTIFACTDAMAGE": "All Artifact Damage",
+      "ARTIFACTDAMAGE": "Dégât de tous les artefacts",
       "FORMATMANA": "-{0} mana",
-      "TAPDAMAGEFROMHELPERS": "Tap Damage from Heroes",
-      "CRITBOOSTSKILLMANA": "Deadly Strike Mana Cost",
-      "FAIRYSPAWNCHANCE": "Chance for Multiple Fairies",
+      "TAPDAMAGEFROMHELPERS": "Dégâts des tapes de Héros",
+      "CRITBOOSTSKILLMANA": "Coût Mana Frappe Mortelle",
+      "FAIRYSPAWNCHANCE": "Chance pour fées multiples",
       "PETQTEGOLD": "Gold Per Heart of Midas",
       "FORMATDISCOUNT": "-{0}%",
-      "PETINDIVIDUALDAMAGE": "Pet Damage",
+      "PETINDIVIDUALDAMAGE": "Dégât de familier",
       "FORMATNONE": "-",
-      "TAPBOOSTSKILLAMOUNT": "Fire Sword Damage",
+      "TAPBOOSTSKILLAMOUNT": "Dégât Epée de Feu",
       "GOBLINQTE": "Goblin Focus Tap",
       "HELPERQTECOUNT": "Ultra Orb Bounces",
-      "BURSTDAMAGESKILLAMOUNT": "Heavenly Strike Damage",
-      "ALLDAMAGE": "All Damage",
-      "PETBOSSDAMAGE": "Pet Damage Per Zip",
+      "BURSTDAMAGESKILLAMOUNT": "Dégât de frappe céleste",
+      "ALLDAMAGE": "Tous les dégâts",
+      "PETBOSSDAMAGE": "Dégât de familier Par Zip",
       "THISHELPERDAMAGE": "This Heroes' Damage",
-      "CRITCHANCE": "Critical Chance",
-      "HELPERBOOSTSKILLDURATION": "War Cry Duration",
-      "PETDAMAGE": "Pet Damage",
-      "SWORDATTACKDAMAGE": "Sword Attack Damage",
+      "CRITCHANCE": "Chance coup critique",
+      "HELPERBOOSTSKILLDURATION": "Durée de Cri de Guerre",
+      "PETDAMAGE": "Dégât de familier",
+      "SWORDATTACKDAMAGE": "Dégâts d'attaque à l'épée",
       "FORMATMULTIPLY": "x{0}",
-      "MANATAPREGEN": "Mana Per Tap",
+      "MANATAPREGEN": "Mana Par Tape",
       "MANAMONSTERAMOUNT": "Manni Mana"
     },
     "EQUIPMENTCLASS": {
@@ -2422,20 +2422,20 @@
         "*": "Slash"
       },
       "HAT": {
-        "ALT": "Helmet",
-        "*": "Hat"
+        "ALT": "Casque",
+        "*": "Chapeau"
       },
       "SUIT": {
         "ALT": "Chest,Body",
-        "*": "Suit"
+        "*": "Costume"
       },
       "WEAPON": {
-        "*": "Weapon",
+        "*": "Arme",
         "ALT": "Sword"
       },
       "NONE": {
         "ALT": "",
-        "*": "Removed"
+        "*": "Supprimé"
       },
       "AURA": {
         "ALT": "",
@@ -2443,8 +2443,8 @@
       }
     },
     "EQUIPMENTSOURCE": {
-      "EQUIPMENTSETS": "Equipment Set",
-      "VALENTINES": "Valentines",
+      "EQUIPMENTSETS": "Set d'équipements",
+      "VALENTINES": "Saint Valentin",
       "DEFAULT": "Default"
     },
     "SUBMISSIONTYPE": {
@@ -2453,17 +2453,17 @@
       "BUG": "Bug"
     },
     "HELPERTYPE": {
-      "RANGE": "Range",
-      "NONE": "None",
-      "MELEE": "Melee",
-      "SPELL": "Spell"
+      "RANGE": "Distance",
+      "NONE": "Aucun",
+      "MELEE": "Mêlée",
+      "SPELL": "Magique"
     }
   },
-  "HELPER": "a hero",
-  "PET": "a pet",
-  "ARTIFACT": "an artifact",
-  "SKILL": "a skill",
-  "PERCENTAGE": "a percentage",
-  "EQUIPMENT": "an equipment",
-  "BONUSTYPE": "A bonus type"
+  "HELPER": "un héro",
+  "PET": "un familier",
+  "ARTIFACT": "un artéfact",
+  "SKILL": "une compétence",
+  "PERCENTAGE": "un pourcentage",
+  "EQUIPMENT": "un équipement",
+  "BONUSTYPE": "un type de bonus"
 }
