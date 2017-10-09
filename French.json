@@ -45,7 +45,7 @@
     "INFO": {
       "FIELD": {
         "DATABASE": {
-          "QUERIES": "Database queries"
+          "QUERIES": "Requêtes dans la base de données"
         },
         "CPU": "CPU",
         "TIMERS": "Active Timers",
