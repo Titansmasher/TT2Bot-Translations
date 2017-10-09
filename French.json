@@ -54,7 +54,7 @@
         "GUILDS": "Guilds",
         "COMMANDS": {
           "USED": "Commande utilisée cette session",
-          "*": "Loaded commands"
+          "*": "Commande utilisée"
         },
         "USERS": "Users",
         "RAM": "RAM",
@@ -76,9 +76,9 @@
     },
     "HELP": {
       "LIST": {
-        "COMMAND": "{0} Commands:\n    {1}",
-        "DESCRIPTION": "To use a command, type `<prefix><command>`\n  e.g. `{0}help`\nTo pass arguments, add a list of values after the command separated by space\n  e.g. `{0}command a b c, d`\nYou can use any of these prefixes: \"{1}\"",
-        "TITLE": "These are the commands you can use"
+        "COMMAND": "{0} Commande :\n    {1}",
+        "DESCRIPTION": "Pour utiliser une commande, écrire `<prefix><command>`\n  Par exemple `{0}help`\nPour ajouter des arguments, ajouter une liste de valeur après la commande, séparée par une espace\n  Par exemple `{0}command a b c, d`\nVous pouvez utiliser n'importe lequel de ces préfixes : \"{1}\"",
+        "TITLE": "Voici les commandes que vous pouvez utiliser"
       },
       "SINGLE": {
         "NOUSAGE": "No usage available!",
