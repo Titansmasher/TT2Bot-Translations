@@ -76,20 +76,20 @@
     },
     "HELP": {
       "LIST": {
-        "COMMAND": "{0} Commande :\n    {1}",
+        "COMMAND": "{0} Command:\n    {1}",
         "DESCRIPTION": "Pour utiliser une commande, écrire `<prefix><command>`\n  Par exemple `{0}help`\nPour ajouter des arguments, ajouter une liste de valeur après la commande, séparée par une espace\n  Par exemple `{0}command a b c, d`\nVous pouvez utiliser n'importe lequel de ces préfixes : \"{1}\"",
         "TITLE": "Voici les commandes que vous pouvez utiliser"
       },
       "SINGLE": {
-        "NOUSAGE": "No usage available!",
-        "NOGROUP": "No categories!",
-        "TITLE": "Help for {0}",
+        "NOUSAGE": "Aucun usage disponible !",
+        "NOGROUP": "Pas de catégories !",
+        "TITLE": "Aide pour {0}",
         "USAGE": {
-          "FOOTER": "\n\n_`<param>` = required\n`[param]` = optional\n`<param...>` = accepts multiple (comma separated)_"
+          "FOOTER": "\n\n_`<param>` = requis\n`[param]` = optionel\n`<param...>` = plusieurs occurrences possibles (séparées par des virgules)_"
         },
         "FOOTER": "{0} | Help",
-        "UNRECOGNISED": "`{0}` is not a recognised command. Use `{1}help` for a list of all available commands",
-        "NODESCRIPTION": "No description!"
+        "UNRECOGNISED": "`{0}` n'est pas une commande reconnue. Utilisez `{1}help` pour la liste des commandes disponibles",
+        "NODESCRIPTION": "Pas de description !"
       }
     },
     "DONATE": {
