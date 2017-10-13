@@ -17,7 +17,7 @@
         "NEW": "Nouvelle valeur"
       },
       "UNABLE": {
-        "TOGGLE": "You cannot toggle the `{0}` setting"
+        "TOGGLE": "Vous ne pouvez modifier le paramètre `{0}`"
       },
       "GROUP": {
         "DISALLOWED": "Les groupes ne sont pas actifs pour ce paramètre !",
@@ -27,7 +27,7 @@
       },
       "INVALIDGROUP": "`{0}`n'est pas un paramètre de groupe valide !",
       "DESCRIPTION": {
-        "NOSETTINGS": "Aucuns paramètres de groupe disponible !"
+        "NOSETTINGS": "Aucun paramètre de groupe disponible !"
       },
       "MISSING": {
         "GROUPID": "Vous devez préciser un ID de groupe pour cette méthode",
@@ -48,20 +48,20 @@
           "QUERIES": "Requêtes dans la base de données"
         },
         "CPU": "CPU",
-        "TIMERS": "Active Timers",
-        "CHANNELS": "Channels",
-        "CALLS": "Loaded calls",
-        "GUILDS": "Guilds",
+        "TIMERS": "Activer Minuteurs",
+        "CHANNELS": "Canaux",
+        "CALLS": "Appels téléchargés",
+        "GUILDS": "Guildes",
         "COMMANDS": {
           "USED": "Commande utilisée cette session",
           "*": "Commande utilisée"
         },
-        "USERS": "Users",
+        "USERS": "Utilisateurs",
         "RAM": "RAM",
         "FACTORY": {
           "BUILT": "Factory Objects produced"
         },
-        "UPTIME": "Uptime"
+        "UPTIME": "Temps de fonctionnement"
       },
       "FOOTER": "{0} | System Data",
       "TITLE": "Current execution statistics"
@@ -69,7 +69,7 @@
     "EXCEPTIONTEXT": {
       "FULLMESSAGE": "Voici ce qui a été enregistré pour l'exception {0}",
       "MESSAGE": "Message",
-      "USER": "User",
+      "USER": "Utilisateur",
       "GUILD": "Guilde",
       "NOTFOUND": "L' exception {0} n'a pas encore d'occurance !",
       "CHANNEL": "Channel"
@@ -98,7 +98,7 @@
       }
     },
     "SCHEDULER": {
-      "PRUNED": "Removed {0} completed timer records"
+      "PRUNED": "{0} minuteurs terminés supprimés"
     },
     "EXEC": {
       "INPUT": {
