@@ -172,7 +172,7 @@
     },
     "ABOUT": {
       "MESSAGE": ":information_source: Salut :wave:, je suis Titanbot! Je suis un bot Open Source de discord dédié à TT2 et écrit en C# par Titansmasher.\nJe peux faire une grande variété de choses, toutes sont documentées dans ma commande t$help !\n\nJe prendrais toujours des suggestions, qui peuvent être soit MP à Titansmasher (il a une mémoire terrible cependant) ou envoyées dans le canal #suggestions sur mon serveur de support !\n\nDépôt public: https://github.com/Titansmasher/TitanBot2\nServer de support: https://discord.gg/abQPtHu\nMa page Patreon: https://www.patreon.com/titansmasher\n\n:sparkles: Remerciements spéciaux à :sparkles:\n  1. Slixe#1246 - Mec génial, a aidé avec les tests initiaux de titanbot\n  2. Blackice#6464 - N'a jamais arrêté d'harceler pour que des choses soit ajoutées\n  3. Neila#9580 - A fait toutes les images des équipements\n  4. artDragon#4484 - A fait mon avatar et d'autres choses sympas\n  5. Tout le monde du clan TT2 Beta Clan pour avoir donné à Titansmasher l'idée initiale\n\nJe me suis aussi beaucoup inspiré d'un autre bot, Blargbot, qui a été créé par Stupid Cat (C'est son pseudo, pas moi qui suis méchant :3)\nVous pouvez en savoir plus sur Blargbot sur son site internet: https://blargbot.xyz/"
-    }
+    },
     "FORMATTING": {
       "SET": {
         "SUCCESS": "Your output format has been set to {0}"
