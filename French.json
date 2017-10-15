@@ -38,7 +38,7 @@
       },
       "FOOTERTEXT": "{0} | Paramètres",
       "INVALID": {
-        "METHOD": "La méthode `{0}` n'est pas reconnu"
+        "METHOD": "La méthode `{0}` n'est pas reconnue"
       },
       "NOTSET": "Pas encore défini"
     },
@@ -120,38 +120,38 @@
       }
     },
     "LANGUAGE": {
-      "EXPORTED": "Here is the exported json for the {0} locale",
-      "CHANGED": "Set your language to {0}",
+      "EXPORTED": "Voici le fichier json exporté pour le {0} local",
+      "CHANGED": "Définissez le langage sur {0}",
       "EMBED": {
-        "DESCRIPTION": "Here are all the supported languages by me!"
+        "DESCRIPTION": "Voici tous les langages que je supporte !"
       },
       "ATTACHMENT": {
-        "EMPTY": "The supplied attachment was empty",
-        "MISSING": "You must supply an attachment in order to import a locale"
+        "EMPTY": "La pièce jointe fournie est vide",
+        "MISSING": "Vous devez fournir une pièce jointe afin d'importer un local"
       },
-      "IMPORTED": "Sucessfully imported the {0} locale",
-      "RELOADED": "Successfully reloaded the language files",
+      "IMPORTED": "Le {0} local a été importé avec succès",
+      "RELOADED": "Le fichier langage a été rechargé avec succès",
       "COVERAGE": "{0}% Coverage"
     },
     "SETTINGRESET": {
       "GUILD": {
-        "NOTEXIST": "That guild does not exist."
+        "NOTEXIST": "Cette guilde n'existe pas."
       },
-      "SUCCESS": "All settings deleted for {0}({1})"
+      "SUCCESS": "Tous les paramètres ont été supprimés pour {0}({1})"
     },
     "EDITCOMMAND": {
-      "SUCCESS": "{0} set successfully for {1} command(s)!",
+      "SUCCESS": "{0} a été défini avec succès pour la commande {1}!",
       "FINDCALLS": {
-        "NORESULTS": "There were no commands that matched those calls."
+        "NORESULTS": "Il n'y a pas de commande correspondant à ces demandes."
       }
     },
     "PREFIX": {
       "SET": {
-        "MESSAGE": "Your guilds prefix has been set to `{0}`"
+        "MESSAGE": "Le préfixe de votre guilde a été défini à `{0}`"
       },
       "SHOW": {
-        "NOPREFIX": "You do not require prefixes in this channel",
-        "MESSAGE": "Your available prefixes are {0}"
+        "NOPREFIX": "Vous n'avez pas besoin de préfixes sur ce channel",
+        "MESSAGE": "Vos préfixes disponibles sont {0}"
       }
     },
     "PING": {
@@ -159,19 +159,19 @@
       "VERIFY": "| {0} ms"
     },
     "SUDO": {
-      "SUCCESS": "Executing `{0}` as {1}"
+      "SUCCESS": "Execution de `{0}` en tant que {1}"
     },
     "SHUTDOWN": {
-      "INTIME": "Shutting down in {0}"
+      "INTIME": "Arrêt dans {0}"
     },
     "INVITE": {
-      "MESSAGE": "Want to invite me to your guild? Click this link!\n<https://discordapp.com/oauth2/authorize?client_id={0}&scope=bot&permissions={1}>"
+      "MESSAGE": "Vous voulez m'inviter dans votre guilde? Cliquez sur ce lien!\n<https://discordapp.com/oauth2/authorize?client_id={0}&scope=bot&permissions={1}>"
     },
     "DBPURGE": {
-      "SUCCESS": "Attempted to drop all data from the `{0}` table"
+      "SUCCESS": "Tentative de supprimer toutes les données de la table `{0}`"
     },
     "ABOUT": {
-      "MESSAGE": ":information_source: 'Ello there :wave:, Im Titanbot! Im an open source discord bot dedicated to TT2 written in C# by Titansmasher.\nI can do a variety of things, all of which are better documented in my t$help command!\n\nIm always going to be taking suggestions, which can either be DM'd to Titansmasher (He has a terrible memory though) Or sent in the #suggestions channel on my support server!\n\nPublic repository: https://github.com/Titansmasher/TitanBot2\nSupport server: https://discord.gg/abQPtHu\nMy patreon page: https://www.patreon.com/titansmasher\n\n:sparkles: Special thanks to :sparkles:\n  1. Slixe#1246 - Awesome guy, helped out with the initial testing of titanbot\n  2. Blackice#6464 - Kept pestering  for things to be added\n  3. Neila#9580 - Did all the images for the equipment\n  4. artDragon#4484 - Made my avatar and makes other cool things\n  5. Everyone from the TT2 Beta Clan clan for giving Titansmasher the initial idea\n\nI also took heavy inspiration from a fellow bot, Blargbot, who was created by Stupid Cat (thats his username, not me being mean :3)\nYou can find out more about blargbot on its website: https://blargbot.xyz/"
+      "MESSAGE": ":information_source: Salut :wave:, je suis Titanbot! Je suis un bot Open Source de discord dédié à TT2 et écrit en C# par Titansmasher.\nJe peux faire une grande variété de choses, toutes sont documentées dans ma commande t$help !\n\nJe prendrais toujours des suggestions, qui peuvent être soit MP à Titansmasher (il a une mémoire terrible cependant) ou envoyées dans le canal #suggestions sur mon serveur de support !\n\nDépôt public: https://github.com/Titansmasher/TitanBot2\nServer de support: https://discord.gg/abQPtHu\nMa page Patreon: https://www.patreon.com/titansmasher\n\n:sparkles: Remerciements spéciaux à :sparkles:\n  1. Slixe#1246 - Mec génial, a aidé avec les tests initiaux de titanbot\n  2. Blackice#6464 - N'a jamais arrêté d'harceler pour que des choses soit ajoutées\n  3. Neila#9580 - A fait toutes les images des équipements\n  4. artDragon#4484 - A fait mon avatar et d'autres choses sympas\n  5. Tout le monde du clan TT2 Beta Clan pour avoir donné à Titansmasher l'idée initiale\n\nJe me suis aussi beaucoup inspiré d'un autre bot, Blargbot, qui a été créé par Stupid Cat (C'est son pseudo, pas moi qui suis méchant :3)\nVous pouvez en savoir plus sur Blargbot sur son site internet: https://blargbot.xyz/"
     }
     "FORMATTING": {
       "SET": {
